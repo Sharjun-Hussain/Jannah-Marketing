@@ -1,8 +1,34 @@
-# React + Vite
+# Landing Page For Jannah Marketing (PVT) LTD . 
+You Can watch : jannahmarketing.nl
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This  React project created using Vite+ React.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+
+- Node.js and npm must be installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+  git clone https://github.com/Sharjun-Hussain/Jannah-Marketing.git
+
+2. Change into the project directory:
+
+  cd jannah-Marketing
+
+3. Install dependencies:
+
+  npm install
+
+4. Running the App
+
+  npm run dev
+
+
+
+
+Developed By : Sharjun Hussain 
+LinkedIn: www.linkedin.com/in/sharjun-hussain
